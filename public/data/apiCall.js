@@ -1,7 +1,7 @@
 var CLIENT_ID = 'X0HZ3VKUHS1YJH1CLP1RIUNWICGLFR0KBPSCHOMCQ2F3CQCW';
 var CLIENT_SECRET = 'V5KJKQZQCD120KRS4ALIGXVQKEMUF12BTNB1CBJWCPZOJIGV';
 
-function callFoursquareNew(){
+function callFoursquare(){
     // Create a request variable and assign a new XMLHttpRequest object to it.
   var request = new XMLHttpRequest();
 
